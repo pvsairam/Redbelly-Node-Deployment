@@ -1,7 +1,6 @@
-# Part 1 of this tutorial will be on Twitter --- This is the part 2 be sure to be directed from there
-
 # Redbelly-Node-Deployment (updating . . . ) 
-#### Remodification of [( @HerculesNode )](https://github.com/kemevo/RedBelly-Node) in conjuction with Official Docs
+#### Forked from @mztacat (X profile) ~ https://github.com/mztacat/Redbelly-Node-Deployment
+# Important Note - This is only for users who got selected and received email.
 
 ---
 
@@ -15,8 +14,6 @@
 - **Network Bandwidth:** 40 Mbps with a stable connection
 
 ---
-
-
 
 # Updates and Installation 🫡
 To set up your Redbelly Node, run the following commands in your terminal:
