@@ -1,4 +1,4 @@
-# Redbelly-Node-Deployment (updating . . . ) 
+# Redbelly-Node-Deployment
 #### Forked from @mztacat (X profile) ~ https://github.com/mztacat/Redbelly-Node-Deployment
 # Important Note - This is only for users who got selected and received email.
 
